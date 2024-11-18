@@ -1,10 +1,10 @@
 {
-"Title": "❗️   اطلاعیه   ❗️",
-"Description": "بزودی فیلترینگ شدیدتری اعمال میشه ، برای جلوگیری از قطع شدن اینترنت خوتون لطفا فورا عضو کانال تلگرامی ما شوید 🌹",
-"Link": "tg://join?invite=TqGubwYkAJdiMmY8",
+"Title": "اطلاعیه #مهم",
+"Description": "- متاسفانه پارت جدید فیلترینگ و اختلال‌ها شروع شده ، اگه سوال و یا مشکلی برای اتصال دارید فورا عضو بزرگ‌ترین گروه رفع اشکال بشید ❤️",
+"Link": "tg://join?invite=NlS3xM0es3ExN2E0",
 "ColorWave": "#ffff00",
 "Color": "#00B0FF",
-"ColorWaveTwo": "#ffff80",
+"ColorWaveTwo": "#D32F2F",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "9295527835",
+"Cancellable": "True",
+"MessageID": "54698138725",
 "ShowTime": "3",
-"Button": " ⏩  عضویت اجباری  ⏪ ",
-"ButtonCancell": "  ",
+"Button": "عضویت فوری",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
