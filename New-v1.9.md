@@ -1,1 +1,24 @@
-
+{
+  "Title": "\ud83d\udd25 \u0627\u0637\u0644\u0627\u0639\u06cc\u0647 \ud83d\udd25",
+  "Description": "\u0634\u0645\u0627 \u0639\u0636\u0648 \u06a9\u0627\u0646\u0627\u0644 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646 \u0645\u0627 \u0646\u06cc\u0633\u062a\u06cc \u060c \u0641\u0648\u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0627\u0646\u0627\u0644 \u0628\u0634\u0648 \u0648 \u0628\u0647 \u0628\u0647\u062a\u0631\u06cc\u0646 \u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646\u200c\u0647\u0627 \u062f\u0633\u062a\u0631\u0633\u06cc \u067e\u06cc\u062f\u0627 \u06a9\u0646 \ud83d\ude0d\ud83d\udc47",
+  "Link": "tg://join?invite=rA7EmMgQftNmYzM0",
+  "ColorWave": "#fff700",
+  "Color": "#ffff00",
+  "ColorWaveTwo": "#ff0000",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#000000",
+  "ColorTitle": "#000000",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "false",
+  "MessageID": "8006446112931139",
+  "ShowTime": "3",
+  "Button": "\u0639\u0636\u0648\u06cc\u062a \u0627\u062c\u0628\u0627\u0631\u06cc",
+  "ButtonCancell": "",
+  "Closure": "on",
+  "Show": "on"
+}
