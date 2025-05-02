@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "6162559866347503",
+"MessageID": "616255866347503",
 "ShowTime": "3",
 "Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
+"ButtonCancell": " عضوم ",
 "Closure": "true",
 "Show": "on"
 }
