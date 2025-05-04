@@ -1,10 +1,10 @@
 {
-"Title": "🛑  شروع اختلالات سراسری  🛑",
-"Description": "شما عضو کانال تلگرام پشتیبان فیلترشکن نیستید ، به همین دلیل فردا اتصال شما قطع میشود ، فورا    👇🏻عضو کانال شوید",
-"Link": "tg://join?invite=rA7EmMgQftNmYzM0",
-"ColorWave": "#FFD600",
+"Title": "کانفیگ V2Ray رایگان",
+"Description": "برای دریافت کانفیگ رایگان و بدون قطعی با لوکیشن‌های متنوع وارد کانال جدید ما شوید ❤️ ",
+"Link": "tg://join?invite=kE0E8r8LlSc3ODU8",
+"ColorWave": "#00E5FF",
 "Color": "#FFA500",
-"ColorWaveTwo": "#FDD835",
+"ColorWaveTwo": "#00B8D4",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "61625586647503",
-"ShowTime": "5",
-"Button": " عضویت اجباری ",
-"ButtonCancell": " عضوم ",
+"Cancellable": "false",
+"MessageID": "61655663403",
+"ShowTime": "3",
+"Button": " عضویت فوردی ",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
