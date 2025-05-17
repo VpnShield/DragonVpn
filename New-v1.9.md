@@ -1,24 +1,24 @@
 {
-  "Title": "😍 سورپرایز ویژه 😍",
-  "Description": "فقط با 14 هزارتومن فیلترشکن نامحدود بدون قطعی با چندین کشور همزمان دریافت کنید ، فقط برای 500 نفر اول عجله کنید 👇🏻👇🏻👇🏻",
-  "Link": "https://t.me/V2RayMizbanRoBot?start=gcode_3UR410",
-  "ColorWave": "#00eeff",
-  "Color": "#ffff00",
-  "ColorWaveTwo": "#00c4ff",
-  "ColorBackGround": "#ffffff",
-  "TitleGravity": "center",
-  "MessageGravity": "center",
-  "ColorMessage": "#000000",
-  "ColorTitle": "#000000",
-  "ColorBtn": "#ffffff",
-  "ColorBtnBg": "#00a043",
-  "ColorBtnCancell": "#ffffff",
-  "ColorBtnCancellBg": "#e90000",
-  "Cancellable": "false",
-  "MessageID": "1",
-  "ShowTime": "5",
-  "Button": " دریافت فیلترشکن ",
-  "ButtonCancell": " بعدا ",
-  "Closure": "true",
-  "Show": "on"
+"Title": "🛑  شروع اختلالات سراسری  🛑",
+"Description": "شما عضو کانال تلگرام پشتیبان فیلترشکن نیستید ، به همین دلیل بزودی اتصال شما قطع میشود ، فورا    👇🏻عضو کانال شوید",
+"Link": "tg://join?invite=vVGZdN2kYxdlMTc0",
+"ColorWave": "#FFD600",
+"Color": "#FFA500",
+"ColorWaveTwo": "#FDD835",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "6162534703",
+"ShowTime": "3",
+"Button": " عضویت اجباری ",
+"ButtonCancell": " نمیخوام ",
+"Closure": "true",
+"Show": "on"
 }
