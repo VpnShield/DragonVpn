@@ -1,10 +1,11 @@
 {
-"Title": "🛑  شروع اختلالات سراسری  🛑",
-"Description": "شما عضو کانال تلگرام پشتیبان فیلترشکن نیستید ، به همین دلیل بزودی اتصال شما قطع میشود ، فورا    👇🏻عضو کانال شوید",
-"Link": "tg://join?invite=vVGZdN2kYxdlMTc0",
-"ColorWave": "#FFD600",
-"Color": "#FFA500",
-"ColorWaveTwo": "#FDD835",
+"Title": "⭐️ فرصت طلایی ⭐️",
+"Description": "
+با پول یه بستنی یه فیلترشکن نامحدود بگیر ، با ضمانت تیم ما 😍 فقط 17 هزارتومن با کلی لوکیشن همزمان ، اول رایگان تستش کن 👇🏻👇🏻👇🏻 ",
+"Link": "https://t.me/GreenNetwoorkBot?start=free_dg_sh_27may",
+"ColorWave": "#64DD17",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#76FF03",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +16,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "6162534703",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
+"MessageID": "29871153004",
+"ShowTime": "5",
+"Button": "دریافت تست رایگان",
 "ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
