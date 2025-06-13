@@ -1,1 +1,24 @@
-.
+{
+  "Title": "❌ فورررری اختلال اینترنت ملی 😱😱🔥 ",
+  "Description": "بزودی اینترنت ملی میشه و اختلال زیادی هست ، فورا عضو کانال تلگرام بشو تا دسترسیت به اینترنت قطع نشه 👇🏻👇🏻👇🏻",
+  "Link": "tg://join?invite=SxBfGxchAVQ0NTZk",
+  "ColorWave": "#ffff00",
+  "Color": "#ffa500",
+  "ColorWaveTwo": "#ff6e40",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#000000",
+  "ColorTitle": "#000000",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "true",
+  "MessageID": "39280000283",
+  "ShowTime": "3",
+  "Button": " عضویت اجباری ",
+  "ButtonCancell": " نمیخوام ",
+  "Closure": "true",
+  "Show": "on"
+}
