@@ -1,10 +1,10 @@
 {
-  "Title": "❌ فورررری اختلال اینترنت ملی 😱😱🔥 ",
-  "Description": "بزودی اینترنت ملی میشه و اختلال زیادی هست ، فورا عضو کانال تلگرام بشو تا دسترسیت به اینترنت قطع نشه 👇🏻👇🏻👇🏻",
-  "Link": "tg://join?invite=SxBfGxchAVQ0NTZk",
-  "ColorWave": "#ffff00",
+  "Title": "❗️ اطلاعیه مهم ❗️",
+  "Description": "طبق خبرها یزودی اختلال شدیدی روی اینترنت اعمال میشه ، برای جلوگیری از قطع اتصال شما فورا عضو کانال تلگرامی تیم ما شوید 🙏❤️",
+  "Link": "tg://join?invite=VYNheWxRgDo0MTg0",
+  "ColorWave": "#00ffff",
   "Color": "#ffa500",
-  "ColorWaveTwo": "#ff6e40",
+  "ColorWaveTwo": "#007cf7",
   "ColorBackGround": "#ffffff",
   "TitleGravity": "center",
   "MessageGravity": "center",
@@ -14,11 +14,11 @@
   "ColorBtnBg": "#00a043",
   "ColorBtnCancell": "#ffffff",
   "ColorBtnCancellBg": "#e90000",
-  "Cancellable": "true",
-  "MessageID": "39280000283",
+  "Cancellable": "false",
+  "MessageID": "3602786700662416",
   "ShowTime": "3",
-  "Button": " عضویت اجباری ",
-  "ButtonCancell": " نمیخوام ",
+  "Button": " عضویت فوردی ",
+  "ButtonCancell": "",
   "Closure": "true",
   "Show": "on"
 }
