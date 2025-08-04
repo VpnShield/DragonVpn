@@ -1,10 +1,10 @@
 {
-  "Title": "❗️ اطلاعیه مهم ❗️",
-  "Description": "طبق خبرها یزودی اختلال شدیدی روی اینترنت اعمال میشه ، برای جلوگیری از قطع اتصال شما فورا عضو کانال تلگرامی تیم ما شوید 🙏❤️",
-  "Link": "tg://join?invite=VYNheWxRgDo0MTg0",
-  "ColorWave": "#00ffff",
+  "Title": "کانفیگ V2Ray و هیدیفای نامحدود",
+  "Description": "با کمتر از پول یه قهوه  = 48 ت خودتو از فیلترشکن بی نیاز کن ، اول رایگان تستش کن ، بعد بخر ، دسترسی همزمان به کشورهای 🇺🇸🇬🇧🇳🇱🇹🇷🇩🇪 با حجم نامحدود 😍👇🏻 (با ضمانت تیم ما)",
+  "Link": "https://t.me/GreenNetwoorkBot?start=free_5augpop_sh",
+  "ColorWave": "#7C4DFF",
   "Color": "#ffa500",
-  "ColorWaveTwo": "#007cf7",
+  "ColorWaveTwo": "#B388FF",
   "ColorBackGround": "#ffffff",
   "TitleGravity": "center",
   "MessageGravity": "center",
@@ -15,9 +15,9 @@
   "ColorBtnCancell": "#ffffff",
   "ColorBtnCancellBg": "#e90000",
   "Cancellable": "false",
-  "MessageID": "3602786700662416",
+  "MessageID": "360200416",
   "ShowTime": "3",
-  "Button": " عضویت فوردی ",
+  "Button": " دریافت تست رایگان ",
   "ButtonCancell": "",
   "Closure": "true",
   "Show": "on"
