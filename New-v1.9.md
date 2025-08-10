@@ -1,10 +1,10 @@
 {
-  "Title": "کانفیگ V2Ray و هیدیفای نامحدود",
-  "Description": "با کمتر از پول یه قهوه  = 48 ت خودتو از فیلترشکن بی نیاز کن ، اول رایگان تستش کن ، بعد بخر ، دسترسی همزمان به کشورهای 🇺🇸🇬🇧🇳🇱🇹🇷🇩🇪 با حجم نامحدود 😍👇🏻 (با ضمانت تیم ما)",
-  "Link": "https://t.me/GreenNetwoorkBot?start=free_5augpop_sh",
-  "ColorWave": "#7C4DFF",
+  "Title": "Vpn Shield | Free ⚡️",
+  "Description": "بزودی دوباره جنگ میشه و اینترنتا ملی ! 😐😑\r\n\r\nفورا عضو بزرگ ترین و بهترین کانال فیلترشکن بشو تا دسترسیت قطع نشه 🔥",
+  "Link": "tg://join?invite=L15jIEnnro83MWM0",
+  "ColorWave": "#ff0000",
   "Color": "#ffa500",
-  "ColorWaveTwo": "#B388FF",
+  "ColorWaveTwo": "#ff4d4d",
   "ColorBackGround": "#ffffff",
   "TitleGravity": "center",
   "MessageGravity": "center",
@@ -15,9 +15,9 @@
   "ColorBtnCancell": "#ffffff",
   "ColorBtnCancellBg": "#e90000",
   "Cancellable": "false",
-  "MessageID": "360200416",
+  "MessageID": "4484098989913328",
   "ShowTime": "3",
-  "Button": " دریافت تست رایگان ",
+  "Button": " عضویت اجباری ",
   "ButtonCancell": "",
   "Closure": "true",
   "Show": "on"
